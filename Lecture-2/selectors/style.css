@@ -1,0 +1,25 @@
+/* element selector */
+h2{
+    color: red;
+    font-size: 30px ;
+}
+
+
+/* id selector */ 
+
+#samarth{
+    color: rgb(39, 39, 165);
+    background-color: antiquewhite;
+}
+
+/* class selector */
+.sharma{
+    color: rgb(165, 62, 39);
+    background-color: rgb(243, 204, 153);
+}
+
+
+
+
+
+
